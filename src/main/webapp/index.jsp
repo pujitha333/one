@@ -8,8 +8,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS CI/CD</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: gray; font-size: 40px;" align="center">hi kshirsagar </h1>
-	<img src="https://www.google.com/url?sa=i&url=https://i.etsystatic.com/19156323/r/il/d632dd/3219297057/il_570xN.3219297057_rlgz.jpg" alt="cardan" width="500" height="600">
-	
+	<h1 style="color: gray; font-size: 40px;" align="center">hipkhaedrfghjfd1234567889 </h1>
 	
 	
 	
